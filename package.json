@@ -1,0 +1,22 @@
+{
+  "name": "hex-to-rgb",
+  "version": "1.0.0",
+  "description": "Convert color hex value to rgb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/hex-to-rgb.git"
+  },
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottcorgan/hex-to-rgb/issues"
+  },
+  "homepage": "https://github.com/scottcorgan/hex-to-rgb",
+  "devDependencies": {
+    "tap-spec": "^2.1.0"
+  }
+}
