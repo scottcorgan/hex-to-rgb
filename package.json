@@ -1,6 +1,6 @@
 {
   "name": "hex-to-rgb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert color hex value to rgb",
   "main": "index.js",
   "scripts": {
